@@ -19,10 +19,11 @@ def med(correct, typo):
         for j in range(1,lenT+1):
             # compare each subpoint to the other
             if correct[i-1]==typo[j-1]:
-                mat[i][j] = mat[i-1][j-1] 
-            else: #check left, bottom,
-                m = min(mat[i][j-1],mat[i-1][j],mat[i-1][j-1])
-                mat[i][j]= m+1
+                mat[i][j] = mat[i-1][j-1]
+            else: #check and choose min from: left, bottom, bottom-left
+                m = min(mat[i][j-1], mat[i-1][j], mat[i-1][j-1])
+                #assign that to point
+                mat[i][j] = m+1
 
     return mat[i][j] #top-end corner
 

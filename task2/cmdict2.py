@@ -1,10 +1,10 @@
 train = open("spelling_error.edits", "r")
 words = " "
 cmd = { 'delete': {},
-'insert': {},
-'substitute': {},
-'transpose': {}
-}
+		'insert': {},
+		'substitute': {},
+		'transpose': {}
+	}
 
 def process_line(line):
 	#take line, strip off characters, split by tab
