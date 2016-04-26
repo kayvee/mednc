@@ -13,7 +13,7 @@
 1	too	because the smell was	<ERR targ=too> to </ERR>	strong
 1	what	that is only the soap	<ERR targ=what> wat </ERR>	i
 0	wish	i	<ERR targ=wash> wosh </ERR>	it with
-0	its	flogger said under	<ERR targ=his> is </ERR>	breath go and have a
+1	his	flogger said under	<ERR targ=his> is </ERR>	breath go and have a
 1	pony	breath go and have a	<ERR targ=pony> poney </ERR>	run
 1	gave	he	<ERR targ=gave> cave </ERR>	it to s m bullimore
 1	gave	then he	<ERR targ=gave> cave </ERR>	it to the pig
@@ -22,10 +22,10 @@
 1	whiskey	her some	<ERR targ=whiskey> wiskey </ERR>	and
 1	gave	you	<ERR targ=gave> cave </ERR>	her that
 1	inject	D days then you can	<ERR targ=inject> injeck </ERR>	them for pneumonia diseases
-0	mock	in with them because the mother might	<ERR targ=knock> nock </ERR>	it down and the little pigs might stab
+1	knock	in with them because the mother might	<ERR targ=knock> nock </ERR>	it down and the little pigs might stab
 1	get	that is so they can	<ERR targ=get> ge </ERR>	out of the way of
 1	keep	to	<ERR targ=keep> geep </ERR>	them warm
-0	is	if she	<ERR targ=has> as </ERR>	not got
+0	was	if she	<ERR targ=has> as </ERR>	not got
 1	ready	and	<ERR targ=ready> reddy </ERR>	to go away to be
 1	too	billy bunter was	<ERR targ=too> to </ERR>	large so they sent for
 1	too	in charge was	<ERR targ=too> to </ERR>	thin so they sent
@@ -232,7 +232,7 @@
 1	things	the people throw the	<ERR targ=things> thinks </ERR>	on the floor
 1	where	said you better watch	<ERR targ=where> were </ERR>	you leave
 1	your	you leave	<ERR targ=your> you </ERR>	baby misses the baby's
-0	is	said why so the other lady said because you know that old man which	<ERR targ=has> as </ERR>	just gone down the road well he tried to take your little baby out of
+0	was	said why so the other lady said because you know that old man which	<ERR targ=has> as </ERR>	just gone down the road well he tried to take your little baby out of
 1	saw	and she	<ERR targ=saw> sow </ERR>	a black baby sitting in her pram she shouted
 1	phoned	after she had shouted she put on her coat and went and	<ERR targ=phoned> phone </ERR>	the police
 1	and	tell us the whole story so she told them to sit down	<ERR targ=and> aud </ERR>	asked them if they wanted a cup of tea they said yes
@@ -258,7 +258,7 @@
 1	as	as soon	<ERR targ=as> ass </ERR>	they arrived on board the sailors told them to report to the captain's office
 1	evening	when	<ERR targ=evening> evining </ERR>	is dark and i am alone my
 1	reading	at work and my mother's at home i sit in my room just	<ERR targ=reading> reding </ERR>	a book my hat on the bed and my
-0	hack	on the	<ERR targ=hook> hock </ERR>	when tv is over and it's time for bed i pull over the covers and lay down my head
+0	shock	on the	<ERR targ=hook> hock </ERR>	when tv is over and it's time for bed i pull over the covers and lay down my head
 1	dark	i have a girl small and	<ERR targ=dark> dork </ERR>	we sit in the
 1	undergrowth	around in the thick	<ERR targ=undergrowth> undergroth </ERR>	of the
 1	jungle	wings and fly away to escape from the	<ERR targ=jungle> jungel </ERR>	cat
@@ -282,7 +282,7 @@
 1	bullet	the man laying on the bunk was dead that second	<ERR targ=bullet> bulet </ERR>	had killed him
 1	had	is horrible i have	<ERR targ=had> has </ERR>	the
 1	teachers	because of one of the	<ERR targ=teachers> teacher </ERR>	got me the
-0	long	like this school because when something is done	<ERR targ=wrong> rong </ERR>	we get the blame for it
+1	wrong	like this school because when something is done	<ERR targ=wrong> rong </ERR>	we get the blame for it
 1	flies	see but they can hear the bats eat	<ERR targ=flies> fies </ERR>	and insects
 0	show	cows one day one of my	<ERR targ=sows> sow </ERR>	went sick i did not
 1	selling	i got it back by	<ERR targ=selling> seling </ERR>	the pigs the money i got for the pigs i got some more bullocks and
@@ -316,7 +316,7 @@
 1	keys	the	<ERR targ=keys> kees </ERR>	will be in the cab
 1	decided	bob	<ERR targ=decided> dicided </ERR>	to
 1	do	to	<ERR targ=do> to </ERR>	it
-0	now	he	<ERR targ=knew> new </ERR>	how to drive it
+1	knew	he	<ERR targ=knew> new </ERR>	how to drive it
 1	because	how to drive it	<ERR targ=because> becaues </ERR>	he had
 1	driven	he had	<ERR targ=driven> drivern </ERR>	one
 1	lorry	is on this	<ERR targ=lorry> lory </ERR>	james
@@ -326,7 +326,7 @@
 1	down	on to a little village near clare he saw a police car coming	<ERR targ=down> donw </ERR>	the road it
 0	lot	the policeman wound down the window you have not seen a man with a	<ERR targ=load> lod </ERR>	of whiskey on a
 1	lorry	i am driving the	<ERR targ=lorry> lory </ERR>	the
-1	lorry	the	<ERR targ=lorry> lory </ERR>	is round the
+0	glory	the	<ERR targ=lorry> lory </ERR>	is round the
 1	corner	is round the	<ERR targ=corner> corer </ERR>	i
 1	because	here	<ERR targ=because> becaues </ERR>	i was going to tell the police if you follow me you can catch the gang the policeman said
 1	nipped	the way bob	<ERR targ=nipped> niped </ERR>	round the
@@ -432,7 +432,7 @@
 1	turn	as i went in the gate the old bull started to	<ERR targ=turn> tern </ERR>	on me so old man jones said get behind that old cart joe
 0	hold	then he asked me if i would	<ERR targ=help> held </ERR>	him bring daisy the old cow up to go with the old bull because he thinks that she ought to have a nothing calf
 1	too	then the time came for the old bull to be sold he was	<ERR targ=too> to </ERR>	old and fat for the old cows
-1	alive	so we took him down tonbury market and he made D.D/Dd	<ERR targ=alive> alife </ERR>	he
+0	life	so we took him down tonbury market and he made D.D/Dd	<ERR targ=alive> alife </ERR>	he
 1	grieve	to	<ERR targ=grieve> greive </ERR>	like a goose
 1	clothes	forget when i and bob fell into a river coming home from church on sunday night we had got our	<ERR targ=clothes> cloths </ERR>	on
 1	covered	the were	<ERR targ=covered> coverd </ERR>	with mud and wet right through when we got home mother and father
@@ -452,7 +452,7 @@
 1	thieves	the five	<ERR targ=thieves> theves </ERR>	i
 1	drain	man fell down the	<ERR targ=drain> drian </ERR>	said rex
 1	funny	it	<ERR targ=funny> funney </ERR>	when the man took the money
-0	of	audrey and	<ERR targ=oh> ow </ERR>	i never quite got your name
+0	how	audrey and	<ERR targ=oh> ow </ERR>	i never quite got your name
 1	might	but when you pick it it might have a bit of fungus you	<ERR targ=might> migth </ERR>	find a bit of spur with the leaves still on or you
 1	might	find a bit of spur with the leaves still on or you	<ERR targ=might> migth </ERR>	see
 1	an	see	<ERR targ=an> a </ERR>	earwig
@@ -514,7 +514,7 @@
 1	dark	it became	<ERR targ=dark> darck </ERR>	i could her the curtains started
 1	sleepy	swing in the wind i felt a bit	<ERR targ=sleepy> sleepey </ERR>	so i just
 1	closed	so i just	<ERR targ=closed> closd </ERR>	my eyes for a moment and
-0	wright	i did not i know you did	<ERR targ=alright> aright </ERR>	i did it then
+0	right	i did not i know you did	<ERR targ=alright> aright </ERR>	i did it then
 0	off	is very cold the sun is very warm when it is very hot you see people	<ERR targ=on> of </ERR>	the shore if you lay on the sand with
 1	your	the shore if you lay on the sand with	<ERR targ=your> you </ERR>	eyes
 1	feel	of the sea going out and coming in soon the wind coming very fast i	<ERR targ=feel> feal </ERR>	a shiver on my
@@ -577,9 +577,9 @@
 1	killed	and people	<ERR targ=killed> killd </ERR>	we
 1	doing	to find the killer who is	<ERR targ=doing> dowing </ERR>	all this so the police started to search for the baby they put it in the papers
 1	worried	the lady who took the baby saw it in the paper she became a bit	<ERR targ=worried> worred </ERR>	of this and got very
-0	new	can i do now i	<ERR targ=know> now </ERR>	i will put it in a
-0	new	then he won't	<ERR targ=know> now </ERR>	she just went
-0	new	she did not	<ERR targ=know> now </ERR>	the police will ask her
+1	know	can i do now i	<ERR targ=know> now </ERR>	i will put it in a
+1	know	then he won't	<ERR targ=know> now </ERR>	she just went
+1	know	she did not	<ERR targ=know> now </ERR>	the police will ask her
 1	basket	have you got in that	<ERR targ=basket> baskek </ERR>	i have some dirty washing i am going to
 1	please	nothing sir nothing let me have a look	<ERR targ=please> pleas </ERR>	no you can not
 1	two	for	<ERR targ=two> to </ERR>	years for killing
@@ -592,10 +592,10 @@
 1	coming	i have a leave	<ERR targ=coming> comeing </ERR>	i
 1	went	i	<ERR targ=went> wet </ERR>	on a motor-cruiser
 1	went	suits we	<ERR targ=went> wet </ERR>	down in to the sea
-0	how	down in to the sea	<ERR targ=on> hon </ERR>	the bottom
+1	on	down in to the sea	<ERR targ=on> hon </ERR>	the bottom
 1	was	there	<ERR targ=was> wos </ERR>	a sea-mine i
 1	went	a sea-mine i	<ERR targ=went> wet </ERR>	to the top of the sea i told the
-0	how	he go	<ERR targ=on> hon </ERR>	to the radio we
+1	on	he go	<ERR targ=on> hon </ERR>	to the radio we
 1	told	to the radio we	<ERR targ=told> tod </ERR>	the sea command
 1	told	he	<ERR targ=told> tod </ERR>	the motor
 1	went	suits and	<ERR targ=went> wet </ERR>	down
@@ -620,7 +620,7 @@
 1	off	the captain said it will be all right you will not go	<ERR targ=off> of </ERR>	this ship by next week you will be back home
 1	home	want to go	<ERR targ=home> hime </ERR>	if i do i will get killed
 1	runway	it makes a	<ERR targ=runway> runaway </ERR>	through rubbish and into meal bins where it eats the meal and soon as anybody comes it jumps out of the meal bins along its runway and back in
-1	its	through rubbish and into meal bins where it eats the meal and soon as anybody comes it jumps out of the meal bins along its runway and back in	<ERR targ=its> is </ERR>	nest
+0	his	through rubbish and into meal bins where it eats the meal and soon as anybody comes it jumps out of the meal bins along its runway and back in	<ERR targ=its> is </ERR>	nest
 1	lying	down the hill its big brown ears prick out of the corn resting all day and playing all night with its little fluffy tail dragging behind that crafty old hare	<ERR targ=lying> laying </ERR>	in the barley
 0	pumps	there are D people in our family i live in number two bridgebrook rd smallerden melton my father is a butcher and i am one to my family is is good them are good people my village is	<ERR targ=dump> pump </ERR>	i have
 1	and	at this school my dad is big	<ERR targ=and> an </ERR>	strong we have got a television and D
@@ -628,11 +628,11 @@
 1	got	is D year old bill is D year old my dad is D year old i mum is D year old gran is D year old we have	<ERR targ=got> go </ERR>	a cat dog and budgerigar
 1	there	a cat dog and budgerigar	<ERR targ=there> ther </ERR>	are three
 1	got	in our house i have	<ERR targ=got> go </ERR>	a record
-0	its	for a job	<ERR targ=his> is </ERR>	name is john wiggle
-0	its	name is john wiggle	<ERR targ=his> is </ERR>	hair is black
+1	his	for a job	<ERR targ=his> is </ERR>	name is john wiggle
+1	his	name is john wiggle	<ERR targ=his> is </ERR>	hair is black
 1	looks	he	<ERR targ=looks> look </ERR>	very
 1	starts	he	<ERR targ=starts> start </ERR>	work
-0	us	he is going home to tell	<ERR targ=his> is </ERR>	wife and kids
+1	his	he is going home to tell	<ERR targ=his> is </ERR>	wife and kids
 0	got	he	<ERR targ=gets> get </ERR>	up at D am he
 1	got	for work he has	<ERR targ=got> go </ERR>	to be there
 0	got	D.D am and he	<ERR targ=gets> get </ERR>	to work the
@@ -641,7 +641,7 @@
 1	there	we will go up	<ERR targ=there> ther </ERR>	to get him and the
 1	boss	him and john became the	<ERR targ=boss> bos </ERR>	of the
 1	snakes	there are	<ERR targ=snakes> snake </ERR>	apes etc
-0	its	one day a little white boy was with	<ERR targ=his> is </ERR>	mother
+1	his	one day a little white boy was with	<ERR targ=his> is </ERR>	mother
 1	sees	and he yes mother and he was walking along the path and he	<ERR targ=sees> see </ERR>	a chimpanzee and he went to play with it
 1	where	and he said	<ERR targ=where> were </ERR>	is gerald i
 1	off	he went	<ERR targ=off> of </ERR>	for a walk and has not come back oh john i am worried
@@ -651,8 +651,8 @@
 0	i	i take ape home dad and	<ERR targ=his> is </ERR>	say
 0	one	say	<ERR targ=no> on </ERR>	and the little said i
 0	his	comes slow	<ERR targ=as> has </ERR>	can be they slowly put him in slow slow slow he goes down down deep under the earth
-1	alley	one dark night in midwinter there was woman walking down a dark	<ERR targ=alley> ally </ERR>	and suddenly someone
-0	its	he took her to	<ERR targ=his> is </ERR>	house he took her in a dark room
+0	wally	one dark night in midwinter there was woman walking down a dark	<ERR targ=alley> ally </ERR>	and suddenly someone
+1	his	he took her to	<ERR targ=his> is </ERR>	house he took her in a dark room
 1	off	on the light he cut	<ERR targ=off> of </ERR>	her head and arms and legs
 1	boys	the woman two	<ERR targ=boys> boy </ERR>	were walking through the park one of the boys
 1	ran	were walking through the park one of the boys	<ERR targ=ran> run </ERR>	into the
@@ -661,7 +661,7 @@
 1	belongs	the police the police came the body was naked this must be the body that the head	<ERR targ=belongs> belong </ERR>	to they took it down to the station and had it examined the body they found jack the
 1	got	and one day they	<ERR targ=got> go </ERR>	a lead and they
 1	got	him man they	<ERR targ=got> go </ERR>	him down a back
-1	alley	him down a back	<ERR targ=alley> ally </ERR>	he
+0	wally	him down a back	<ERR targ=alley> ally </ERR>	he
 1	nights	i go out on a round saturday i still at school i work two	<ERR targ=nights> night </ERR>	a week and all day saturday i can drive i turn the van round in the yard my mate is
 0	drove	he	<ERR targ=drives> drive </ERR>	the van round
 1	where	my dad work	<ERR targ=where> were </ERR>	do
@@ -768,7 +768,7 @@
 1	listen	and	<ERR targ=listen> listern </ERR>	to what we are told in english we will have no trouble when we go out into the world
 1	should	i think mr t	<ERR targ=should> shoold </ERR>	come and see mr
 1	too	dear uncle ben i hope you are well and aunt sue	<ERR targ=too> to </ERR>	and kim we will
-0	hours	up in the august holiday will you come down for a holiday to	<ERR targ=our> hour </ERR>	house this year i am
+1	our	up in the august holiday will you come down for a holiday to	<ERR targ=our> hour </ERR>	house this year i am
 1	writing	house this year i am	<ERR targ=writing> writeing </ERR>	this letter in school it is a hot day our sally is on
 0	heard	this letter in school it is a hot day our sally is on	<ERR targ=heat> heart </ERR>	did i tell you my new
 1	fell	name her name is pauline howlet i	<ERR targ=fell> fall </ERR>	out with her

@@ -8,7 +8,7 @@ cmd = { 'delete': {},
 
 def process_line(line):
 	#take line, strip off characters, split by tab
-	word = line.strip().split('\t')[0]
+	word = "#" + line.strip().split('\t')[0]
 	data = line.strip().split('\t')[2]
 	t, first, second = data.split(',')
 
